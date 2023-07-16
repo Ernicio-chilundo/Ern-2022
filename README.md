@@ -1,6 +1,6 @@
 ## Boas vindas ao meu perfil 😀
 
-Meu nome é Ernício Jermias Chlundo e sou completamente apaixonado por tecnologia e educação, atuando nessas áreas desde 2022 😎
+Meu nome é Ernício Jermias Chilundo e sou completamente apaixonado por tecnologia e educação, atuando nessas áreas desde 2022 😎
 
 Atualmente estou a procura de uma vaga de emprego. 
 
