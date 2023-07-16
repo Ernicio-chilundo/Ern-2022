@@ -1,16 +1,34 @@
-### Hi there 👋
+## Boas vindas ao meu perfil 😀
 
-<!--
-**Ern-2022/Ern-2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Ernício Jermias Chlundo e sou completamente apaixonado por tecnologia e educação, atuando nessas áreas desde 2022 😎
 
-Here are some ideas to get you started:
+Atualmente estou a procura de uma vaga de emprego. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<!-- GITHUB STATUS -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ern-2022&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ern-2022&layout=compact&langs_count=10&theme=radical"/>
+
+  <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+</div>
+
+<br>
+
+<!-- TECNOLOGIAS -->
+<div align="center">
+
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+</div>
+
+<!-- REDES SOCIAIS -->
+<div align="center">
+  <a href="https://instagram.com/https://instagram.com/chilundoerniciojermias?igshid=MzNlNGNkZWQ4Mg==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/Ernicio Jermias Chilundo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+   <a href="mailto:erniciojermiaschilund@gmail" target="_blank"><img src="https://play-lh.googleusercontent.com/D1Dz2BjPYev_oyksKXsdtAS66a_2Ql-sklpzTnwR9lqnDG_P5lAJEtfR70FudJ0XMA=s48-rw" style='width: 28px' target="_blank"></a>  
+  
+  ![](https://visitor-badge.glitch.me/badge?page_id=Ern-2022)
+</div>
