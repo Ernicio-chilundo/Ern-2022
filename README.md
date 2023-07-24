@@ -2,7 +2,7 @@
 
 Meu nome é Ernício Jermias Chilundo e sou completamente apaixonado por tecnologia e educação, atuando nessas áreas desde 2022 😎
 
-Atualmente estou a procura de uma pessoa que podem me dar desafios para eu ter EXPERIÊNCIA... e assim  estarei preparado para qualquer trabalho.
+Atualmente estou a procura de uma pessoa que pode me dar desafios para eu ter EXPERIÊNCIA... e assim  estarei preparado para qualquer trabalho.
 Pretendo aprender ;Python,Html,Javascript,c++.
 ...
 
